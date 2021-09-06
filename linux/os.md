@@ -1,4 +1,4 @@
-# os
+# System information
 
 Get hostname
 

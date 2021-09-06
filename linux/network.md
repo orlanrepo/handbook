@@ -1,4 +1,4 @@
-# network
+# Network
 
 Check network interfaces
 

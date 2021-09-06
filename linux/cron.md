@@ -1,4 +1,4 @@
-# cron
+# Cron
 
 Check main cron file
 

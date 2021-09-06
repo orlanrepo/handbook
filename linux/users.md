@@ -1,4 +1,4 @@
-# users
+# Users
 
 View home folders:
 

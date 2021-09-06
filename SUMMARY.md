@@ -9,19 +9,19 @@
 
 ## Linux
 
-* [user](linux/user.md)
-* [users](linux/users.md)
-* [os](linux/os.md)
-* [cron](linux/cron.md)
-* [drives - exports - mounts](linux/drives-exports-mounts.md)
-* [network](linux/network.md)
+* [User](linux/user.md)
+* [Users](linux/users.md)
+* [System information](linux/os.md)
+* [Cron](linux/cron.md)
+* [Drives - Mounts - Exports](linux/drives-exports-mounts.md)
+* [Network](linux/network.md)
 
 ## Windows
 
-* [user](windows/user.md)
-* [users](windows/users.md)
-* [os](windows/os.md)
-* [registry](windows/registry.md)
+* [User](windows/user.md)
+* [Users](windows/users.md)
+* [System information](windows/os.md)
+* [Registry](windows/registry.md)
 
 ## Shells
 
@@ -36,7 +36,7 @@
 ## Dirb's
 
 * [gobuster](dirbs/gobuster.md)
-* [dirb](dirbs/dirb.md)
+* [girb](dirbs/dirb.md)
 * [ffuf](dirbs/ffuf.md)
 
 ## Ports
